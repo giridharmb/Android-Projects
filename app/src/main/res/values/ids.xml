@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="show_alert_dialog_message" type="id">This Is An Alert Message</item>
+</resources>

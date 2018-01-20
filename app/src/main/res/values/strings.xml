@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="button_name">Giridhar.B</string>
+    <string name="show_text">Hoo Haa</string>
+    <string name="error_message">Please Enter Valid Number</string>
+    <string name="try_me">Try Me</string>
+    <string name="id_yes">Yes</string>
+    <string name="id_maybe">May Be</string>
+    <string name="id_no">No</string>
+    <string name="show_alert_button_text">Show Alert</string>
+
+    <string name="show_alert_dialog_title">Dialog Title</string>
+    <string name="show_alert_dialog_message">This Is An Alert Message</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string name="gotoNextActivity">Goto Next Activity</string>
+    <string name="secondActivityText">Second Activity</string>
+    <string name="goto_first">Goto First</string>
+    <string name="cat">Cat</string>
+    <string name="dog">Dog</string>
+</resources>
